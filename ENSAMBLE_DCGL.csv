@@ -1,0 +1,17 @@
+n;ORDEN;OPERADOR;LUGAR;METODO;TIEMPO
+1;O1;OP1;beta;C;10
+2;O1;OP2;gamma;B;10
+3;O1;OP3;delta;D;12
+4;O1;OP4;alfa;A;7
+5;O2;OP1;alfa;B;8
+6;O2;OP2;delta;C;15
+7;O2;OP3;gamma;A;7
+8;O2;OP4;beta;D;14
+9;O3;OP1;delta;A;6
+10;O3;OP2;alfa;D;14
+11;O3;OP3;beta;B;11
+12;O3;OP4;gamma;C;13
+13;O4;OP1;gamma;D;11
+14;O4;OP2;beta;A;8
+15;O4;OP3;alfa;C;10
+16;O4;OP4;delta;B;8
